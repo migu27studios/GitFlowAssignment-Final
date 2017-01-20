@@ -1,2 +1,4 @@
 90 Degrees
 85 Degrees
+70 Degrees
+80 Degrees
